@@ -1,11 +1,13 @@
 # ¡Hola! Soy Rodrigo, Front End Web/Mobile 💻
 <br>
 
-Hola, soy Fátima 👋 <br>
-Decidí dedicarme a la programación Front End Web y Mobile cuando descubrí la pasión por diseñar una página o una App y después poder hacerla realidad mediante el código. <br>
-Me di cuenta que en el area de Front End el diseño y el código van de la mano y fue ahí dónde encontré mi lugar.
+Hola, soy Rodrigo 👋 <br>
 
-Estoy formada como Full Stack Web Developer y estudié en el bootcamp Soy Henry, ahí descubrí el mundo de la programación y mi motivación.
+Decidí dedicarme a la programación Front End Web y Mobile cuando descubrí la pasión por pasar mucho tiempo frente a una computadora probando cosas y después darme cuenta que podía crear cualquier cosa que se me ocurra mediante código. <br>
+
+Me di cuenta que en el area de Front End el diseño y el código van de la mano y fue ahí dónde encontré mi vocación.
+
+Estoy formado como Full Stack Web Developer y estudié en el bootcamp Soy Henry.
 
 Actualmente sigo ampliando mis conocimientos de Front End Web, y también me está gustando cada vez más el desarrollo Front End Mobile con React Native.
 
@@ -37,5 +39,5 @@ Actualmente sigo ampliando mis conocimientos de Front End Web, y también me est
 
 <h2>:incoming_envelope: Podes contactarme</h2>
 
-:envelope: E-mail: fatimalezcanodev@gmail.com <br>
-:computer_mouse: Linkedin: https://www.linkedin.com/in/fatima-lezcano/
+:envelope: E-mail: rodrigocremella@hotmail.com <br>
+:computer_mouse: Linkedin: https://www.linkedin.com/in/rodrigocremella/
