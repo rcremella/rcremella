@@ -35,8 +35,3 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 
 <br>
 <br>
-
-<h2>:incoming_envelope:  Podes contactarme</h2>
-
-:envelope: E-mail: rodrigocremella@hotmail.com <br>
-:computer_mouse: Linkedin: https://www.linkedin.com/in/rodrigocremella/
