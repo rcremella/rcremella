@@ -15,7 +15,7 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 <br>
 
 
-<h2>🧠 Soft Skills</h2><br>
+<h2>🧠  Soft Skills</h2><br>
 ➜ Soy una persona dedicada y muy exigente, trato de entregar lo mejor de mi en cada proyecto y de mejorar cada vez más.<br>
 ➜ Con una gran capacidad de adaptación ante nuevos equipos y/o ambientes laborales.<br>
 ➜ Buen manejo de situaciones bajo presión.<br>
@@ -26,7 +26,7 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 <br>
 
 
-<h2>:computer: Tecnologias con las que trabajo</h2>
+<h2>:computer:  Tecnologias con las que trabajo</h2>
 
 :floppy_disk: Javascript, HTML, CSS, SCSS, Bootstrap <br>
 :floppy_disk: ReactJs, React Native, Redux. <br>
@@ -36,7 +36,7 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 <br>
 <br>
 
-<h2>:incoming_envelope: Podes contactarme</h2>
+<h2>:incoming_envelope:  Podes contactarme</h2>
 
 :envelope: E-mail: rodrigocremella@hotmail.com <br>
 :computer_mouse: Linkedin: https://www.linkedin.com/in/rodrigocremella/
