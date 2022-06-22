@@ -28,10 +28,10 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 
 <h2>:computer:  Tecnologias con las que trabajo</h2>
 
-:floppy_disk: Javascript, HTML, CSS, SCSS, Bootstrap <br>
-:floppy_disk: ReactJs, React Native, Redux. <br>
-:floppy_disk: Figma, Adobe Photoshop & Lightroom. <br>
-:floppy_disk: Git, GitHub, SCRUM. <br>
+⌨️ Javascript, HTML, CSS, SCSS, Bootstrap <br>
+⌨️ ReactJs, React Native, Redux. <br>
+⌨️ Figma, Adobe Photoshop & Lightroom. <br>
+⌨️ Git, GitHub, SCRUM. <br>
 
 <br>
 <br>
