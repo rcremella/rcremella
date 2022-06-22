@@ -28,10 +28,9 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 
 <h2>:computer:  Tecnologias con las que trabajo</h2>
 
-⌨️ Javascript, HTML, CSS, SCSS, Bootstrap <br>
-⌨️ ReactJs, React Native, Redux. <br>
-⌨️ Figma, Adobe Photoshop & Lightroom. <br>
-⌨️ Git, GitHub, SCRUM. <br>
+⌨️ Javascript, HTML, Express, CSS, SCSS, Bootstrap <br>
+⌨️ ReactJS, React Native, Redux, Postgres, NodeJS <br>
+⌨️ Git, GitHub, SCRUM, Figma <br>
 
 <br>
 <br>
