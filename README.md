@@ -1,15 +1,15 @@
-# ¡Hola! Soy Rodrigo, Front End Web/Mobile 💻
+# Rodrigo - Front-End Web/Mobile 💻
 <br>
 
 Hola, soy Rodrigo 👋 <br>
 
-Decidí dedicarme a la programación Front End Web y Mobile cuando descubrí la pasión por pasar mucho tiempo frente a una computadora probando cosas y después darme cuenta que podía crear cualquier cosa que se me ocurra mediante código. <br>
+Decidí dedicarme a la programación Front-End Web y Mobile cuando descubrí la pasión por pasar mucho tiempo frente a una computadora probando cosas y después darme cuenta que podía crear cualquier cosa que se me ocurra mediante código. <br>
 
-Me di cuenta que en el area de Front End el diseño y el código van de la mano y fue ahí dónde encontré mi vocación.
+Anteriormente fui programador SAP ABAP durante 4 años, pero luego me di cuenta que en el area de Web Front-End el diseño y el código van de la mano y fue ahí dónde encontré mi verdadera vocación y lo que me inspiraba a hacer un gran cambio.
 
 Estoy formado como Full Stack Web Developer y estudié en el bootcamp Soy Henry.
 
-Actualmente sigo ampliando mis conocimientos de Front End Web, y también me está gustando cada vez más el desarrollo Front End Mobile con React Native.
+Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me está gustando cada vez más el desarrollo Front-End Mobile con React Native.
 
 <br>
 <br>
@@ -31,8 +31,7 @@ Actualmente sigo ampliando mis conocimientos de Front End Web, y también me est
 :floppy_disk: Javascript, HTML, CSS, SCSS, Bootstrap <br>
 :floppy_disk: ReactJs, React Native, Redux. <br>
 :floppy_disk: Figma, Adobe Photoshop & Lightroom. <br>
-:floppy_disk: Git, github, SCRUM. <br>
-:floppy_disk: Google Suit. <br>
+:floppy_disk: Git, GitHub, SCRUM. <br>
 
 <br>
 <br>
