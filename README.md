@@ -1,4 +1,4 @@
-<img width="100%" height="250px" style="objectFit: cover" src="https://blog.kakaocdn.net/dn/clS48d/btq90mHIj7r/k4L2wzNWFW5es11X8ZauFK/img.png">
+<img width="100%" height="250px" style="object-fit: cover;" src="https://blog.kakaocdn.net/dn/clS48d/btq90mHIj7r/k4L2wzNWFW5es11X8ZauFK/img.png">
 
 # Rodrigo - Front-End Web/Mobile 💻
 <br>
