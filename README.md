@@ -16,9 +16,9 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 
 
 <h2>🙇🏻 Soft Skills</h2><br>
-💬 Soy una persona dedicada y muy exigente, trato de entregar lo mejor de mi en cada proyecto y de mejorar cada vez más.<br>
-💬 Con una gran capacidad de adaptación ante nuevos equipos y/o ambientes laborales.<br>
-💬 Buen manejo de situaciones bajo presión.<br>
+💬 Soy una persona dedicada y muy exigente, trato de entregar lo mejor de mi en cada proyecto y de mejorar cada vez más<br>
+💬 Con una gran capacidad de adaptación ante nuevos equipos y/o ambientes laborales<br>
+💬 Buen manejo de situaciones bajo presión<br>
 💬 Me considero una persona muy creativa<br>
 💬 Compromiso y pensamiento crítico<br>
 
