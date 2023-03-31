@@ -28,7 +28,7 @@ Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me est
 
 <h2>:computer:  Tecnologias con las que trabajo</h2>
 
-⌨️ JavaScript, HTML, Express, CSS, SCSS, Bootstrap <br>
+⌨️ JavaScript, Typescript, Next.js, Express, Chakra UI <br>
 ⌨️ ReactJS, React Native, Redux, Postgres, NodeJS <br>
 ⌨️ Git, GitHub, SCRUM, Figma, SAP <br>
 
