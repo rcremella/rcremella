@@ -1,36 +1,10 @@
-# Rodrigo - Front-End Web/Mobile 💻
+# Rodrigo Cremella - Front End Developer 💻📱
 <br>
 
-Hola, soy Rodrigo 👋 <br>
+Hi, my name is Rodrigo 👋  <br>
 
-Decidí dedicarme a la programación Front-End Web y Mobile cuando descubrí la pasión por pasar mucho tiempo frente a una computadora probando cosas y después darme cuenta que podía crear cualquier cosa que se me ocurra mediante código. <br>
+I chose to pursue Front-End Web and Mobile programming after discovering my passion for spending long hours in front of a computer, trying out different things, and realizing that I could create anything I could imagine through code.
 
-Anteriormente fui programador SAP ABAP durante 4 años, pero luego me di cuenta que en el area de Web Front-End el diseño y el código van de la mano y fue ahí dónde encontré mi verdadera vocación y lo que me inspiraba a hacer un gran cambio.
+Previously, I worked as an SAP ABAP programmer for four years, but I later realized that in the Web Front-End area, design and code go hand in hand. That's where I found my true calling and what inspired me to make a significant change.
 
-Estoy formado como Full Stack Web Developer y estudié en el bootcamp Soy Henry.
-
-Actualmente sigo ampliando mis conocimientos de Front-End Web, y también me está gustando cada vez más el desarrollo Front-End Mobile con React Native.
-
-<br>
-<br>
-
-
-<h2>🙇🏻 Soft Skills</h2><br>
-💬 Soy una persona dedicada y muy exigente, trato de entregar lo mejor de mi en cada proyecto y de mejorar cada vez más<br>
-💬 Con una gran capacidad de adaptación ante nuevos equipos y/o ambientes laborales<br>
-💬 Buen manejo de situaciones bajo presión<br>
-💬 Me considero una persona muy creativa<br>
-💬 Compromiso y pensamiento crítico<br>
-
-<br>
-<br>
-
-
-<h2>:computer:  Tecnologias con las que trabajo</h2>
-
-⌨️ JavaScript, Typescript, Next.js, Express, Chakra UI <br>
-⌨️ ReactJS, React Native, Redux, Postgres, NodeJS <br>
-⌨️ Git, GitHub, SCRUM, Figma, SAP <br>
-
-<br>
-<br>
+I'm a Full Stack Web Developer who studied at the Soy Henry bootcamp. Currently, I'm expanding my knowledge of Front-End Web development by learning new technologies like TypeScript, Next.js and Front-End Mobile development with React Native. 
